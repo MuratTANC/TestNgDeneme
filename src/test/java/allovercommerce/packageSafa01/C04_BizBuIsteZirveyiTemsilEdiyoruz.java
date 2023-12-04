@@ -1,4 +1,4 @@
-package allovercommerce.package01;
+package allovercommerce.packageSafa01;
 
 public class C04_BizBuIsteZirveyiTemsilEdiyoruz {
 }
